@@ -1,7 +1,7 @@
 ﻿ static int Stepen(int a, int b)
         {
-            int c = a;
-            int d = b;
+            public int c = a;
+            public int d = b;
 
             int per = a;
 
